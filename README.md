@@ -96,15 +96,4 @@ $ npm start
       "javascript.preferences.quoteStyle": "single",
     }
 
-```
 
-<<<<<<< HEAD
-# final
-# final
-# final
-# final2
-=======
-# final
-# final
->>>>>>> 675e5036611d54008a7206c97a57a275e23455a1
-# final2
