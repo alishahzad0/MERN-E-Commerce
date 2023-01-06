@@ -1,7 +1,7 @@
 {
-  "name": "mern-ecommerce",
+  "name": "DigiThrift",
   "version": "1.0.0",
-  "description": "MERN Ecommerce",
+  "description": "DigiThrift",
   "main": "server/index.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "git+https://github.com/alishahzad0/final.git"
   },
   "keywords": [
     "node",
@@ -27,12 +27,12 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
-  "license": "MIT",
+  "author": "DigiThrift (https://github.com/alishahzad0)",
+  "license": "FAST-NUCES",
   "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
+    "url": "https://github.com/alishahzad0/final/issues"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "homepage": "https://github.com/alishahzad0/final#readme",
   "dependencies": {
     "@fontsource/poppins": "^4.5.9",
     "autosuggest-highlight": "^3.1.1",
