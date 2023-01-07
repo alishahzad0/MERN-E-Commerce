@@ -145,8 +145,8 @@ class Navigation extends React.PureComponent {
                 <span>Free Shipping</span>
               </Col>
               <Col md='4' className='text-center d-none d-md-block'>
-                <i className='fa fa-credit-card' />
-                <span>Payment Methods</span>
+                <i className='bag-icon' />
+                <span>Refurbished Goods</span>
               </Col>
               <Col md='4' className='text-center d-none d-md-block'>
                 <i className='fa fa-phone' />
