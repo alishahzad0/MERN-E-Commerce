@@ -1,7 +1,7 @@
 {
   "name": "DigiThrift",
   "version": "1.0.0",
-  "description": "DigiThrift",
+  "description": "DigiThrift Refurfished Store ",
   "main": "server/index.js",
   "scripts": {
     "clean": "rimraf dist",
