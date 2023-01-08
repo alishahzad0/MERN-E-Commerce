@@ -18,7 +18,7 @@ import Address from '../../../containers/Address';
 import Product from '../../../containers/Product';
 import Brand from '../../../containers/Brand';
 import Order from '../../../containers/Order';
-import Wishlist from '../../../containers/WishList';
+{/*import Wishlist from '../../../containers/WishList';*/}
 
 const Merchant = props => {
   return (
@@ -36,7 +36,7 @@ const Merchant = props => {
               <Route path='/dashboard/product' component={Product} />
               <Route path='/dashboard/brand' component={Brand} />
               <Route path='/dashboard/orders' component={Order} />
-              <Route path='/dashboard/wishlist' component={Wishlist} />
+              {/*<Route path='/dashboard/wishlist' component={Wishlist} />*/}
               <Route path='*' component={Page404} />
             </Switch>
           </div>

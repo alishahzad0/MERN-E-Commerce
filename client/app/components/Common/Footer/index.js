@@ -57,16 +57,20 @@ const Footer = () => {
               <ul>{footerLinks}</ul>
             </div>
           </div>
+          {/*
           <div className='footer-block'>
             <div className='block-title'>
               <h3 className='text-uppercase'>Newsletter</h3>
               <Newsletter />
             </div>
           </div>
+  */}
+
         </div>
         <div className='footer-copyright'>
           <span>© {new Date().getFullYear()} DigiThrift Store</span>
         </div>
+        {/*
         <ul className='footer-social-item'>
           <li>
             <a href='/#facebook' rel='noreferrer noopener' target='_blank'>
@@ -89,6 +93,7 @@ const Footer = () => {
             </a>
           </li>
         </ul>
+       */}
       </Container>
     </footer>
   );
