@@ -29,7 +29,6 @@ class Homepage extends React.PureComponent {
                 ))}
               </CarouselSlider>
             </div>
-         
       </div>
     );
   }
