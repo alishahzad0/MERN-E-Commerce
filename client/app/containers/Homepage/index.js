@@ -7,7 +7,6 @@
 import React from 'react';
 
 import { connect } from 'react-redux';
-import "../../styles/core/_homepage.scss"
 import actions from '../../actions';
 import banners from './banners.json';
 import CarouselSlider from '../../components/Common/CarouselSlider';
@@ -26,7 +25,7 @@ class Homepage extends React.PureComponent {
                 slides={banners}
                 responsive={responsiveOneItemCarousel}>
                 {banners.map((item, index) => (
-                  <img key={index} src={item.imageUrl} />
+                  <img width={1100} height={500} key={index} src={item.imageUrl} />
                 ))}
               </CarouselSlider>
             </div>
